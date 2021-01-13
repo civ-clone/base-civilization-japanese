@@ -1,0 +1,2 @@
+import './registerAttributes';
+import './registerCityNames';
