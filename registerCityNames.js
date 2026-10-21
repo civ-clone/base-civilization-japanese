@@ -3,7 +3,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const Japanese_1 = require("./Japanese");
 const CityName_1 = require("@civ-clone/core-civilization/CityName");
 const CityNameRegistry_1 = require("@civ-clone/core-civilization/CityNameRegistry");
+// The first is the capital.
 [
+    'Kyoto',
     'Tokyo',
     'Kanagawa',
     'Osaka',
@@ -11,7 +13,6 @@ const CityNameRegistry_1 = require("@civ-clone/core-civilization/CityNameRegistr
     'Hokkaidō',
     'Fukuoka',
     'Hyōgo',
-    'Kyoto',
     'Saitama',
     'Hiroshima',
     'Miyagi',
